@@ -1,0 +1,3772 @@
+{
+  "nodes": [
+
+    {
+      "id": 1,
+      "podcast": "Párnacsata",
+      "target_count": 1,
+      "source_count": 7
+    },
+    {
+      "id": 2,
+      "podcast": "TheVR Happy Hour",
+      "target_count": 11,
+      "source_count": 15
+    },
+    {
+      "id": 3,
+      "podcast": "Balázsék",
+      "target_count": 9,
+      "source_count": 15
+    },
+    {
+      "id": 4,
+      "podcast": "Millásreggeli Gazdasági Muppet Show",
+      "target_count": 0,
+      "source_count": 7
+    },
+    {
+      "id": 5,
+      "podcast": "G7 Beszélgetések",
+      "target_count": 5,
+      "source_count": 15
+    },
+    {
+      "id": 6,
+      "podcast": "Az élet, meg minden",
+      "target_count": 3,
+      "source_count": 15
+    },
+    {
+      "id": 7,
+      "podcast": "Közös Albion",
+      "target_count": 3,
+      "source_count": 14
+    },
+    {
+      "id": 8,
+      "podcast": "halottnak a coach",
+      "target_count": 1,
+      "source_count": 2
+    },
+    {
+      "id": 9,
+      "podcast": "Totalcar Égéstér: Podcast autókról",
+      "target_count": 9,
+      "source_count": 15
+    },
+    {
+      "id": 10,
+      "podcast": "Rádió 1",
+      "target_count": 6,
+      "source_count": 15
+    },
+    {
+      "id": 11,
+      "podcast": "Kultrovat podcast",
+      "target_count": 13,
+      "source_count": 15
+    },
+    {
+      "id": 12,
+      "podcast": "Nánásiék podcast",
+      "target_count": 4,
+      "source_count": 15
+    },
+    {
+      "id": 13,
+      "podcast": "Szertár",
+      "target_count": 16,
+      "source_count": 14
+    },
+    {
+      "id": 14,
+      "podcast": "Retró Házibuli Mixek",
+      "target_count": 2,
+      "source_count": 12
+    },
+    {
+      "id": 15,
+      "podcast": "Comedy Central Podcast",
+      "target_count": 7,
+      "source_count": 15
+    },
+    {
+      "id": 16,
+      "podcast": "Irodai Huszárok",
+      "target_count": 14,
+      "source_count": 14
+    },
+    {
+      "id": 17,
+      "podcast": "OkosOtthon Club",
+      "target_count": 0,
+      "source_count": 12
+    },
+    {
+      "id": 18,
+      "podcast": "Önkényes Mérvadó",
+      "target_count": 10,
+      "source_count": 15
+    },
+    {
+      "id": 19,
+      "podcast": "Pál Feri - Alkalmak",
+      "target_count": 9,
+      "source_count": 15
+    },
+    {
+      "id": 20,
+      "podcast": "Podkedd",
+      "target_count": 7,
+      "source_count": 15
+    },
+    {
+      "id": 21,
+      "podcast": "Heti Meteor",
+      "target_count": 9,
+      "source_count": 15
+    },
+    {
+      "id": 22,
+      "podcast": "konnektor, a magyar videójáték podcast",
+      "target_count": 12,
+      "source_count": 15
+    },
+    {
+      "id": 23,
+      "podcast": "Filmbarátok Podcast",
+      "target_count": 19,
+      "source_count": 15
+    },
+    {
+      "id": 24,
+      "podcast": "20 perccel a jövőbe",
+      "target_count": 20,
+      "source_count": 15
+    },
+    {
+      "id": 25,
+      "podcast": "Filmklub podcast",
+      "target_count": 6,
+      "source_count": 15
+    },
+    {
+      "id": 26,
+      "podcast": "Checkpoint",
+      "target_count": 6,
+      "source_count": 15
+    },
+    {
+      "id": 27,
+      "podcast": "Teljes terjedelem",
+      "target_count": 2,
+      "source_count": 14
+    },
+    {
+      "id": 28,
+      "podcast": "Fülke: a hvg.hu közéleti podcastja",
+      "target_count": 4,
+      "source_count": 14
+    },
+    {
+      "id": 29,
+      "podcast": "Hack és Lángos",
+      "target_count": 3,
+      "source_count": 15
+    },
+    {
+      "id": 30,
+      "podcast": "Filmvilág",
+      "target_count": 1,
+      "source_count": 15
+    },
+    {
+      "id": 31,
+      "podcast": "Konnekted",
+      "target_count": 19,
+      "source_count": 15
+    },
+    {
+      "id": 32,
+      "podcast": "Szín Folt Cafe",
+      "target_count": 10,
+      "source_count": 15
+    },
+    {
+      "id": 33,
+      "podcast": "Agyvihar",
+      "target_count": 16,
+      "source_count": 15
+    },
+    {
+      "id": 34,
+      "podcast": "Hármas könyvelés",
+      "target_count": 10,
+      "source_count": 15
+    },
+    {
+      "id": 35,
+      "podcast": "Alley-oop",
+      "target_count": 2,
+      "source_count": 15
+    },
+    {
+      "id": 36,
+      "podcast": "Meti Heteor",
+      "target_count": 20,
+      "source_count": 15
+    },
+    {
+      "id": 37,
+      "podcast": "Nyilvános vetítés",
+      "target_count": 12,
+      "source_count": 15
+    },
+    {
+      "id": 38,
+      "podcast": "gombapresszó",
+      "target_count": 10,
+      "source_count": 15
+    },
+    {
+      "id": 39,
+      "podcast": "Énidő by Törköly Erika",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 40,
+      "podcast": "GeekTalk",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 41,
+      "podcast": "Sport TV podcast",
+      "target_count": 11,
+      "source_count": 0
+    },
+    {
+      "id": 42,
+      "podcast": "Infostart.hu - Aréna",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 43,
+      "podcast": "atlatszo.hu",
+      "target_count": 10,
+      "source_count": 0
+    },
+    {
+      "id": 44,
+      "podcast": "Direkt36 Podcast",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 45,
+      "podcast": "Három kérdés",
+      "target_count": 14,
+      "source_count": 0
+    },
+    {
+      "id": 46,
+      "podcast": "SBS Hungarian - SBS Magyarul",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 47,
+      "podcast": "Kultúrfitnesz",
+      "target_count": 5,
+      "source_count": 0
+    },
+    {
+      "id": 48,
+      "podcast": "Szkeptikus Hangtár",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 49,
+      "podcast": "Adatépítész - a magyar data podcast",
+      "target_count": 7,
+      "source_count": 0
+    },
+    {
+      "id": 50,
+      "podcast": "Szabad Európa Podcast",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 51,
+      "podcast": "Anno Budapest",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 52,
+      "podcast": "XaB és barátai",
+      "target_count": 12,
+      "source_count": 0
+    },
+    {
+      "id": 53,
+      "podcast": "LibrAmore Podcast",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 54,
+      "podcast": "Biznisz Boyz: A magyar vállalkozói podcast show",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 55,
+      "podcast": "impakták",
+      "target_count": 5,
+      "source_count": 0
+    },
+    {
+      "id": 56,
+      "podcast": "Vendéglő a Világ Végén",
+      "target_count": 18,
+      "source_count": 0
+    },
+    {
+      "id": 57,
+      "podcast": "Kiköltöztünk - a külföldre költözők podcastja",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 58,
+      "podcast": "Space Bar Podcast",
+      "target_count": 10,
+      "source_count": 0
+    },
+    {
+      "id": 59,
+      "podcast": "Lecsó: belecsapunk!",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 60,
+      "podcast": "Vaxerencse - a hé7méteres kézipodcast",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 61,
+      "podcast": "Büntető Podcast",
+      "target_count": 3,
+      "source_count": 0
+    },
+    {
+      "id": 62,
+      "podcast": "Stredford End",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 63,
+      "podcast": "Majompercek",
+      "target_count": 3,
+      "source_count": 0
+    },
+    {
+      "id": 64,
+      "podcast": "Triple Coverage by Fűzővel kifelé!",
+      "target_count": 3,
+      "source_count": 0
+    },
+    {
+      "id": 65,
+      "podcast": "Zebraetető",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 66,
+      "podcast": "SportTerasz - sport podcast",
+      "target_count": 4,
+      "source_count": 0
+    },
+    {
+      "id": 67,
+      "podcast": "Rapcity Keleten-Nyugaton Podcast",
+      "target_count": 3,
+      "source_count": 0
+    },
+    {
+      "id": 68,
+      "podcast": "Spin-O-Rama Hungary",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 69,
+      "podcast": "THPFC Podcast",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 70,
+      "podcast": "Sterbinszky Official Podcast",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 71,
+      "podcast": "Funky Mixes",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 72,
+      "podcast": "Andro Podcast",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 73,
+      "podcast": "Vakfolt podcast",
+      "target_count": 16,
+      "source_count": 0
+    },
+    {
+      "id": 74,
+      "podcast": "A hét mesterlövésze",
+      "target_count": 5,
+      "source_count": 0
+    },
+    {
+      "id": 75,
+      "podcast": "Szempillantás",
+      "target_count": 7,
+      "source_count": 0
+    },
+    {
+      "id": 76,
+      "podcast": "Nők az úton",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 77,
+      "podcast": "Pannon pszicho",
+      "target_count": 8,
+      "source_count": 0
+    },
+    {
+      "id": 78,
+      "podcast": "B-sensual Official HOUSE Podcast",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 79,
+      "podcast": "Daráló Podcast",
+      "target_count": 12,
+      "source_count": 0
+    },
+    {
+      "id": 80,
+      "podcast": "Apple Keynotes",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 81,
+      "podcast": "The Vergecast",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 82,
+      "podcast": "Accidental Tech Podcast",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 83,
+      "podcast": "Techdirt",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 84,
+      "podcast": "The Talk Show With John Gruber",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 85,
+      "podcast": "Recode Decode, hosted by Kara Swisher",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 86,
+      "podcast": "Software Engineering Daily",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 87,
+      "podcast": "Syntax - Tasty Web Development Treats",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 88,
+      "podcast": "88 mérföld óránként",
+      "target_count": 7,
+      "source_count": 0
+    },
+    {
+      "id": 89,
+      "podcast": "Malackaraj",
+      "target_count": 4,
+      "source_count": 0
+    },
+    {
+      "id": 90,
+      "podcast": "HWSW Weekly",
+      "target_count": 3,
+      "source_count": 0
+    },
+    {
+      "id": 91,
+      "podcast": "Gamer365.hu",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 92,
+      "podcast": "appteszt",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 93,
+      "podcast": "Letscode.hu",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 94,
+      "podcast": "Könyvesblog",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 95,
+      "podcast": "Popkult, csajok, satöbbi",
+      "target_count": 2,
+      "source_count": 0
+    },
+    {
+      "id": 96,
+      "podcast": "Beszélő kockák",
+      "target_count": 1,
+      "source_count": 0
+    },
+    {
+      "id": 97,
+      "podcast": "Limitált Széria",
+      "target_count": 1,
+      "source_count": 0
+    }
+
+  ],
+  "links": [
+
+    {
+      "source_id": 1,
+      "source_name": "Párnacsata",
+      "target_id": 8,
+      "target_name": "halottnak a coach"
+    },
+    {
+      "source_id": 1,
+      "source_name": "Párnacsata",
+      "target_id": 39,
+      "target_name": "Énidő by Törköly Erika"
+    },
+    {
+      "source_id": 1,
+      "source_name": "Párnacsata",
+      "target_id": 40,
+      "target_name": "GeekTalk"
+    },
+    {
+      "source_id": 1,
+      "source_name": "Párnacsata",
+      "target_id": 12,
+      "target_name": "Nánásiék podcast"
+    },
+    {
+      "source_id": 1,
+      "source_name": "Párnacsata",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 1,
+      "source_name": "Párnacsata",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 1,
+      "source_name": "Párnacsata",
+      "target_id": 3,
+      "target_name": "Balázsék"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 20,
+      "target_name": "Podkedd"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 3,
+      "target_name": "Balázsék"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 9,
+      "target_name": "Totalcar Égéstér: Podcast autókról"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 18,
+      "target_name": "Önkényes Mérvadó"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 10,
+      "target_name": "Rádió 1"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 15,
+      "target_name": "Comedy Central Podcast"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 41,
+      "target_name": "Sport TV podcast"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 26,
+      "target_name": "Checkpoint"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 10,
+      "target_name": "Rádió 1"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 9,
+      "target_name": "Totalcar Égéstér: Podcast autókról"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 15,
+      "target_name": "Comedy Central Podcast"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 18,
+      "target_name": "Önkényes Mérvadó"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 12,
+      "target_name": "Nánásiék podcast"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 19,
+      "target_name": "Pál Feri - Alkalmak"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 41,
+      "target_name": "Sport TV podcast"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 20,
+      "target_name": "Podkedd"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 14,
+      "target_name": "Retró Házibuli Mixek"
+    },
+    {
+      "source_id": 3,
+      "source_name": "Balázsék",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 4,
+      "source_name": "Millásreggeli Gazdasági Muppet Show",
+      "target_id": 5,
+      "target_name": "G7 Beszélgetések"
+    },
+    {
+      "source_id": 4,
+      "source_name": "Millásreggeli Gazdasági Muppet Show",
+      "target_id": 42,
+      "target_name": "Infostart.hu - Aréna"
+    },
+    {
+      "source_id": 4,
+      "source_name": "Millásreggeli Gazdasági Muppet Show",
+      "target_id": 43,
+      "target_name": "atlatszo.hu"
+    },
+    {
+      "source_id": 4,
+      "source_name": "Millásreggeli Gazdasági Muppet Show",
+      "target_id": 28,
+      "target_name": "Fülke: a hvg.hu közéleti podcastja"
+    },
+    {
+      "source_id": 4,
+      "source_name": "Millásreggeli Gazdasági Muppet Show",
+      "target_id": 44,
+      "target_name": "Direkt36 Podcast"
+    },
+    {
+      "source_id": 4,
+      "source_name": "Millásreggeli Gazdasági Muppet Show",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 4,
+      "source_name": "Millásreggeli Gazdasági Muppet Show",
+      "target_id": 46,
+      "target_name": "SBS Hungarian - SBS Magyarul"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 28,
+      "target_name": "Fülke: a hvg.hu közéleti podcastja"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 6,
+      "target_name": "Az élet, meg minden"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 44,
+      "target_name": "Direkt36 Podcast"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 47,
+      "target_name": "Kultúrfitnesz"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 48,
+      "target_name": "Szkeptikus Hangtár"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 49,
+      "target_name": "Adatépítész - a magyar data podcast"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 29,
+      "target_name": "Hack és Lángos"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 50,
+      "target_name": "Szabad Európa Podcast"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 7,
+      "target_name": "Közös Albion"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 51,
+      "target_name": "Anno Budapest"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 53,
+      "target_name": "LibrAmore Podcast"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 54,
+      "target_name": "Biznisz Boyz: A magyar vállalkozói podcast show"
+    },
+    {
+      "source_id": 5,
+      "source_name": "G7 Beszélgetések",
+      "target_id": 55,
+      "target_name": "impakták"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 47,
+      "target_name": "Kultúrfitnesz"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 28,
+      "target_name": "Fülke: a hvg.hu közéleti podcastja"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 29,
+      "target_name": "Hack és Lángos"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 49,
+      "target_name": "Adatépítész - a magyar data podcast"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 48,
+      "target_name": "Szkeptikus Hangtár"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 55,
+      "target_name": "impakták"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 57,
+      "target_name": "Kiköltöztünk - a külföldre költözők podcastja"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 5,
+      "target_name": "G7 Beszélgetések"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 34,
+      "target_name": "Hármas könyvelés"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 58,
+      "target_name": "Space Bar Podcast"
+    },
+    {
+      "source_id": 6,
+      "source_name": "Az élet, meg minden",
+      "target_id": 59,
+      "target_name": "Lecsó: belecsapunk!"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 27,
+      "target_name": "Teljes terjedelem"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 60,
+      "target_name": "Vaxerencse - a hé7méteres kézipodcast"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 61,
+      "target_name": "Büntető Podcast"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 62,
+      "target_name": "Stredford End"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 41,
+      "target_name": "Sport TV podcast"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 63,
+      "target_name": "Majompercek"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 64,
+      "target_name": "Triple Coverage by Fűzővel kifelé!"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 65,
+      "target_name": "Zebraetető"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 66,
+      "target_name": "SportTerasz - sport podcast"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 35,
+      "target_name": "Alley-oop"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 67,
+      "target_name": "Rapcity Keleten-Nyugaton Podcast"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 68,
+      "target_name": "Spin-O-Rama Hungary"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 69,
+      "target_name": "THPFC Podcast"
+    },
+    {
+      "source_id": 7,
+      "source_name": "Közös Albion",
+      "target_id": 5,
+      "target_name": "G7 Beszélgetések"
+    },
+    {
+      "source_id": 8,
+      "source_name": "halottnak a coach",
+      "target_id": 1,
+      "target_name": "Párnacsata"
+    },
+    {
+      "source_id": 8,
+      "source_name": "halottnak a coach",
+      "target_id": 5,
+      "target_name": "G7 Beszélgetések"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 18,
+      "target_name": "Önkényes Mérvadó"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 3,
+      "target_name": "Balázsék"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 15,
+      "target_name": "Comedy Central Podcast"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 41,
+      "target_name": "Sport TV podcast"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 19,
+      "target_name": "Pál Feri - Alkalmak"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 43,
+      "target_name": "atlatszo.hu"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 10,
+      "target_name": "Rádió 1"
+    },
+    {
+      "source_id": 9,
+      "source_name": "Totalcar Égéstér: Podcast autókról",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 3,
+      "target_name": "Balázsék"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 15,
+      "target_name": "Comedy Central Podcast"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 14,
+      "target_name": "Retró Házibuli Mixek"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 9,
+      "target_name": "Totalcar Égéstér: Podcast autókról"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 70,
+      "target_name": "Sterbinszky Official Podcast"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 12,
+      "target_name": "Nánásiék podcast"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 18,
+      "target_name": "Önkényes Mérvadó"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 71,
+      "target_name": "Funky Mixes"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 19,
+      "target_name": "Pál Feri - Alkalmak"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 72,
+      "target_name": "Andro Podcast"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 10,
+      "source_name": "Rádió 1",
+      "target_id": 41,
+      "target_name": "Sport TV podcast"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 18,
+      "target_name": "Önkényes Mérvadó"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 9,
+      "target_name": "Totalcar Égéstér: Podcast autókról"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 3,
+      "target_name": "Balázsék"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 25,
+      "target_name": "Filmklub podcast"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 19,
+      "target_name": "Pál Feri - Alkalmak"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 15,
+      "target_name": "Comedy Central Podcast"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 43,
+      "target_name": "atlatszo.hu"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 41,
+      "target_name": "Sport TV podcast"
+    },
+    {
+      "source_id": 11,
+      "source_name": "Kultrovat podcast",
+      "target_id": 74,
+      "target_name": "A hét mesterlövésze"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 75,
+      "target_name": "Szempillantás"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 3,
+      "target_name": "Balázsék"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 76,
+      "target_name": "Nők az úton"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 59,
+      "target_name": "Lecsó: belecsapunk!"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 19,
+      "target_name": "Pál Feri - Alkalmak"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 57,
+      "target_name": "Kiköltöztünk - a külföldre költözők podcastja"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 10,
+      "target_name": "Rádió 1"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 32,
+      "target_name": "Szín Folt Cafe"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 39,
+      "target_name": "Énidő by Törköly Erika"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 28,
+      "target_name": "Fülke: a hvg.hu közéleti podcastja"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 47,
+      "target_name": "Kultúrfitnesz"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 77,
+      "target_name": "Pannon pszicho"
+    },
+    {
+      "source_id": 12,
+      "source_name": "Nánásiék podcast",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 18,
+      "target_name": "Önkényes Mérvadó"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 9,
+      "target_name": "Totalcar Égéstér: Podcast autókról"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 19,
+      "target_name": "Pál Feri - Alkalmak"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 77,
+      "target_name": "Pannon pszicho"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 43,
+      "target_name": "atlatszo.hu"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 13,
+      "source_name": "Szertár",
+      "target_id": 38,
+      "target_name": "gombapresszó"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 71,
+      "target_name": "Funky Mixes"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 70,
+      "target_name": "Sterbinszky Official Podcast"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 10,
+      "target_name": "Rádió 1"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 78,
+      "target_name": "B-sensual Official HOUSE Podcast"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 72,
+      "target_name": "Andro Podcast"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 15,
+      "target_name": "Comedy Central Podcast"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 9,
+      "target_name": "Totalcar Égéstér: Podcast autókról"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 19,
+      "target_name": "Pál Feri - Alkalmak"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 43,
+      "target_name": "atlatszo.hu"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 14,
+      "source_name": "Retró Házibuli Mixek",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 10,
+      "target_name": "Rádió 1"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 3,
+      "target_name": "Balázsék"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 18,
+      "target_name": "Önkényes Mérvadó"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 9,
+      "target_name": "Totalcar Égéstér: Podcast autókról"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 19,
+      "target_name": "Pál Feri - Alkalmak"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 41,
+      "target_name": "Sport TV podcast"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 32,
+      "target_name": "Szín Folt Cafe"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 20,
+      "target_name": "Podkedd"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 75,
+      "target_name": "Szempillantás"
+    },
+    {
+      "source_id": 15,
+      "source_name": "Comedy Central Podcast",
+      "target_id": 38,
+      "target_name": "gombapresszó"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 32,
+      "target_name": "Szín Folt Cafe"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 75,
+      "target_name": "Szempillantás"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 38,
+      "target_name": "gombapresszó"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 49,
+      "target_name": "Adatépítész - a magyar data podcast"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 34,
+      "target_name": "Hármas könyvelés"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 21,
+      "target_name": "Heti Meteor"
+    },
+    {
+      "source_id": 16,
+      "source_name": "Irodai Huszárok",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 21,
+      "target_name": "Heti Meteor"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 80,
+      "target_name": "Apple Keynotes"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 81,
+      "target_name": "The Vergecast"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 49,
+      "target_name": "Adatépítész - a magyar data podcast"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 82,
+      "target_name": "Accidental Tech Podcast"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 83,
+      "target_name": "Techdirt"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 84,
+      "target_name": "The Talk Show With John Gruber"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 85,
+      "target_name": "Recode Decode, hosted by Kara Swisher"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 86,
+      "target_name": "Software Engineering Daily"
+    },
+    {
+      "source_id": 17,
+      "source_name": "OkosOtthon Club",
+      "target_id": 87,
+      "target_name": "Syntax - Tasty Web Development Treats"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 74,
+      "target_name": "A hét mesterlövésze"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 9,
+      "target_name": "Totalcar Égéstér: Podcast autókról"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 19,
+      "target_name": "Pál Feri - Alkalmak"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 43,
+      "target_name": "atlatszo.hu"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 3,
+      "target_name": "Balázsék"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 15,
+      "target_name": "Comedy Central Podcast"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 41,
+      "target_name": "Sport TV podcast"
+    },
+    {
+      "source_id": 18,
+      "source_name": "Önkényes Mérvadó",
+      "target_id": 25,
+      "target_name": "Filmklub podcast"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 18,
+      "target_name": "Önkényes Mérvadó"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 77,
+      "target_name": "Pannon pszicho"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 9,
+      "target_name": "Totalcar Égéstér: Podcast autókról"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 43,
+      "target_name": "atlatszo.hu"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 25,
+      "target_name": "Filmklub podcast"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 12,
+      "target_name": "Nánásiék podcast"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 75,
+      "target_name": "Szempillantás"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 42,
+      "target_name": "Infostart.hu - Aréna"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 3,
+      "target_name": "Balázsék"
+    },
+    {
+      "source_id": 19,
+      "source_name": "Pál Feri - Alkalmak",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 21,
+      "target_name": "Heti Meteor"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 38,
+      "target_name": "gombapresszó"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 32,
+      "target_name": "Szín Folt Cafe"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 26,
+      "target_name": "Checkpoint"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 20,
+      "source_name": "Podkedd",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 34,
+      "target_name": "Hármas könyvelés"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 88,
+      "target_name": "88 mérföld óránként"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 58,
+      "target_name": "Space Bar Podcast"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 38,
+      "target_name": "gombapresszó"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 89,
+      "target_name": "Malackaraj"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 32,
+      "target_name": "Szín Folt Cafe"
+    },
+    {
+      "source_id": 21,
+      "source_name": "Heti Meteor",
+      "target_id": 90,
+      "target_name": "HWSW Weekly"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 26,
+      "target_name": "Checkpoint"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 91,
+      "target_name": "Gamer365.hu"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 21,
+      "target_name": "Heti Meteor"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 20,
+      "target_name": "Podkedd"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 32,
+      "target_name": "Szín Folt Cafe"
+    },
+    {
+      "source_id": 22,
+      "source_name": "konnektor, a magyar videójáték podcast",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 25,
+      "target_name": "Filmklub podcast"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 18,
+      "target_name": "Önkényes Mérvadó"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 20,
+      "target_name": "Podkedd"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 26,
+      "target_name": "Checkpoint"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 41,
+      "target_name": "Sport TV podcast"
+    },
+    {
+      "source_id": 23,
+      "source_name": "Filmbarátok Podcast",
+      "target_id": 74,
+      "target_name": "A hét mesterlövésze"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 18,
+      "target_name": "Önkényes Mérvadó"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 77,
+      "target_name": "Pannon pszicho"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 43,
+      "target_name": "atlatszo.hu"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 24,
+      "source_name": "20 perccel a jövőbe",
+      "target_id": 38,
+      "target_name": "gombapresszó"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 11,
+      "target_name": "Kultrovat podcast"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 43,
+      "target_name": "atlatszo.hu"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 30,
+      "target_name": "Filmvilág"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 89,
+      "target_name": "Malackaraj"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 34,
+      "target_name": "Hármas könyvelés"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 88,
+      "target_name": "88 mérföld óránként"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 77,
+      "target_name": "Pannon pszicho"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 25,
+      "source_name": "Filmklub podcast",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 91,
+      "target_name": "Gamer365.hu"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 90,
+      "target_name": "HWSW Weekly"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 34,
+      "target_name": "Hármas könyvelés"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 58,
+      "target_name": "Space Bar Podcast"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 21,
+      "target_name": "Heti Meteor"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 88,
+      "target_name": "88 mérföld óránként"
+    },
+    {
+      "source_id": 26,
+      "source_name": "Checkpoint",
+      "target_id": 20,
+      "target_name": "Podkedd"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 41,
+      "target_name": "Sport TV podcast"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 61,
+      "target_name": "Büntető Podcast"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 7,
+      "target_name": "Közös Albion"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 64,
+      "target_name": "Triple Coverage by Fűzővel kifelé!"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 35,
+      "target_name": "Alley-oop"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 67,
+      "target_name": "Rapcity Keleten-Nyugaton Podcast"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 63,
+      "target_name": "Majompercek"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 66,
+      "target_name": "SportTerasz - sport podcast"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 74,
+      "target_name": "A hét mesterlövésze"
+    },
+    {
+      "source_id": 27,
+      "source_name": "Teljes terjedelem",
+      "target_id": 60,
+      "target_name": "Vaxerencse - a hé7méteres kézipodcast"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 47,
+      "target_name": "Kultúrfitnesz"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 43,
+      "target_name": "atlatszo.hu"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 6,
+      "target_name": "Az élet, meg minden"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 74,
+      "target_name": "A hét mesterlövésze"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 5,
+      "target_name": "G7 Beszélgetések"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 49,
+      "target_name": "Adatépítész - a magyar data podcast"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 29,
+      "target_name": "Hack és Lángos"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 55,
+      "target_name": "impakták"
+    },
+    {
+      "source_id": 28,
+      "source_name": "Fülke: a hvg.hu közéleti podcastja",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 49,
+      "target_name": "Adatépítész - a magyar data podcast"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 92,
+      "target_name": "appteszt"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 93,
+      "target_name": "Letscode.hu"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 90,
+      "target_name": "HWSW Weekly"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 6,
+      "target_name": "Az élet, meg minden"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 47,
+      "target_name": "Kultúrfitnesz"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 58,
+      "target_name": "Space Bar Podcast"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 55,
+      "target_name": "impakták"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 88,
+      "target_name": "88 mérföld óránként"
+    },
+    {
+      "source_id": 29,
+      "source_name": "Hack és Lángos",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 88,
+      "target_name": "88 mérföld óránként"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 94,
+      "target_name": "Könyvesblog"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 25,
+      "target_name": "Filmklub podcast"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 34,
+      "target_name": "Hármas könyvelés"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 95,
+      "target_name": "Popkult, csajok, satöbbi"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 58,
+      "target_name": "Space Bar Podcast"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 66,
+      "target_name": "SportTerasz - sport podcast"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 96,
+      "target_name": "Beszélő kockák"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 55,
+      "target_name": "impakták"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 97,
+      "target_name": "Limitált Széria"
+    },
+    {
+      "source_id": 30,
+      "source_name": "Filmvilág",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 32,
+      "target_name": "Szín Folt Cafe"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 21,
+      "target_name": "Heti Meteor"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 26,
+      "target_name": "Checkpoint"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 20,
+      "target_name": "Podkedd"
+    },
+    {
+      "source_id": 31,
+      "source_name": "Konnekted",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 38,
+      "target_name": "gombapresszó"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 75,
+      "target_name": "Szempillantás"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 34,
+      "target_name": "Hármas könyvelés"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 58,
+      "target_name": "Space Bar Podcast"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 77,
+      "target_name": "Pannon pszicho"
+    },
+    {
+      "source_id": 32,
+      "source_name": "Szín Folt Cafe",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 77,
+      "target_name": "Pannon pszicho"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 32,
+      "target_name": "Szín Folt Cafe"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 38,
+      "target_name": "gombapresszó"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 75,
+      "target_name": "Szempillantás"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 34,
+      "target_name": "Hármas könyvelés"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 33,
+      "source_name": "Agyvihar",
+      "target_id": 13,
+      "target_name": "Szertár"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 58,
+      "target_name": "Space Bar Podcast"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 21,
+      "target_name": "Heti Meteor"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 88,
+      "target_name": "88 mérföld óránként"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 95,
+      "target_name": "Popkult, csajok, satöbbi"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 89,
+      "target_name": "Malackaraj"
+    },
+    {
+      "source_id": 34,
+      "source_name": "Hármas könyvelés",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 67,
+      "target_name": "Rapcity Keleten-Nyugaton Podcast"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 63,
+      "target_name": "Majompercek"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 41,
+      "target_name": "Sport TV podcast"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 64,
+      "target_name": "Triple Coverage by Fűzővel kifelé!"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 27,
+      "target_name": "Teljes terjedelem"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 61,
+      "target_name": "Büntető Podcast"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 66,
+      "target_name": "SportTerasz - sport podcast"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 7,
+      "target_name": "Közös Albion"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 35,
+      "source_name": "Alley-oop",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 21,
+      "target_name": "Heti Meteor"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 38,
+      "target_name": "gombapresszó"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 34,
+      "target_name": "Hármas könyvelés"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 49,
+      "target_name": "Adatépítész - a magyar data podcast"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 24,
+      "target_name": "20 perccel a jövőbe"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 58,
+      "target_name": "Space Bar Podcast"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 36,
+      "source_name": "Meti Heteor",
+      "target_id": 26,
+      "target_name": "Checkpoint"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 25,
+      "target_name": "Filmklub podcast"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 88,
+      "target_name": "88 mérföld óránként"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 34,
+      "target_name": "Hármas könyvelés"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 23,
+      "target_name": "Filmbarátok Podcast"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 22,
+      "target_name": "konnektor, a magyar videójáték podcast"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 38,
+      "target_name": "gombapresszó"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 32,
+      "target_name": "Szín Folt Cafe"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 58,
+      "target_name": "Space Bar Podcast"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 37,
+      "source_name": "Nyilvános vetítés",
+      "target_id": 21,
+      "target_name": "Heti Meteor"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 56,
+      "target_name": "Vendéglő a Világ Végén"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 32,
+      "target_name": "Szín Folt Cafe"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 36,
+      "target_name": "Meti Heteor"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 16,
+      "target_name": "Irodai Huszárok"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 33,
+      "target_name": "Agyvihar"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 45,
+      "target_name": "Három kérdés"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 52,
+      "target_name": "XaB és barátai"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 73,
+      "target_name": "Vakfolt podcast"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 31,
+      "target_name": "Konnekted"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 79,
+      "target_name": "Daráló Podcast"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 75,
+      "target_name": "Szempillantás"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 89,
+      "target_name": "Malackaraj"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 37,
+      "target_name": "Nyilvános vetítés"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 58,
+      "target_name": "Space Bar Podcast"
+    },
+    {
+      "source_id": 38,
+      "source_name": "gombapresszó",
+      "target_id": 77,
+      "target_name": "Pannon pszicho"
+    }
+
+  ]
+}

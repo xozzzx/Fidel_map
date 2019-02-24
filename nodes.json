@@ -1,0 +1,390 @@
+[
+ {
+   "id": 1,
+   "podcast": "Párnacsata"
+ },
+ {
+   "id": 2,
+   "podcast": "TheVR Happy Hour"
+ },
+ {
+   "id": 3,
+   "podcast": "Balázsék"
+ },
+ {
+   "id": 4,
+   "podcast": "Millásreggeli Gazdasági Muppet Show"
+ },
+ {
+   "id": 5,
+   "podcast": "G7 Beszélgetések"
+ },
+ {
+   "id": 6,
+   "podcast": "Az élet, meg minden"
+ },
+ {
+   "id": 7,
+   "podcast": "Közös Albion"
+ },
+ {
+   "id": 8,
+   "podcast": "halottnak a coach"
+ },
+ {
+   "id": 9,
+   "podcast": "Totalcar Égéstér: Podcast autókról"
+ },
+ {
+   "id": 10,
+   "podcast": "Rádió 1"
+ },
+ {
+   "id": 11,
+   "podcast": "Kultrovat podcast"
+ },
+ {
+   "id": 12,
+   "podcast": "Nánásiék podcast"
+ },
+ {
+   "id": 13,
+   "podcast": "Szertár"
+ },
+ {
+   "id": 14,
+   "podcast": "Retró Házibuli Mixek"
+ },
+ {
+   "id": 15,
+   "podcast": "Comedy Central Podcast"
+ },
+ {
+   "id": 16,
+   "podcast": "Irodai Huszárok"
+ },
+ {
+   "id": 17,
+   "podcast": "OkosOtthon Club"
+ },
+ {
+   "id": 18,
+   "podcast": "Önkényes Mérvadó"
+ },
+ {
+   "id": 19,
+   "podcast": "Pál Feri - Alkalmak"
+ },
+ {
+   "id": 20,
+   "podcast": "Podkedd"
+ },
+ {
+   "id": 21,
+   "podcast": "Heti Meteor"
+ },
+ {
+   "id": 22,
+   "podcast": "konnektor, a magyar videójáték podcast"
+ },
+ {
+   "id": 23,
+   "podcast": "Énidő by Törköly Erika"
+ },
+ {
+   "id": 24,
+   "podcast": "GeekTalk"
+ },
+ {
+   "id": 25,
+   "podcast": "Filmbarátok Podcast"
+ },
+ {
+   "id": 26,
+   "podcast": "Konnekted"
+ },
+ {
+   "id": 27,
+   "podcast": "Sport TV podcast"
+ },
+ {
+   "id": 28,
+   "podcast": "20 perccel a jövőbe"
+ },
+ {
+   "id": 29,
+   "podcast": "Meti Heteor"
+ },
+ {
+   "id": 30,
+   "podcast": "Checkpoint"
+ },
+ {
+   "id": 31,
+   "podcast": "Infostart.hu - Aréna"
+ },
+ {
+   "id": 32,
+   "podcast": "atlatszo.hu"
+ },
+ {
+   "id": 33,
+   "podcast": "Fülke: a hvg.hu közéleti podcastja"
+ },
+ {
+   "id": 34,
+   "podcast": "Direkt36 Podcast"
+ },
+ {
+   "id": 35,
+   "podcast": "Három kérdés"
+ },
+ {
+   "id": 36,
+   "podcast": "SBS Hungarian - SBS Magyarul"
+ },
+ {
+   "id": 37,
+   "podcast": "Kultúrfitnesz"
+ },
+ {
+   "id": 38,
+   "podcast": "Szkeptikus Hangtár"
+ },
+ {
+   "id": 39,
+   "podcast": "Adatépítész - a magyar data podcast"
+ },
+ {
+   "id": 40,
+   "podcast": "Hack és Lángos"
+ },
+ {
+   "id": 41,
+   "podcast": "Szabad Európa Podcast"
+ },
+ {
+   "id": 42,
+   "podcast": "Anno Budapest"
+ },
+ {
+   "id": 43,
+   "podcast": "XaB és barátai"
+ },
+ {
+   "id": 44,
+   "podcast": "LibrAmore Podcast"
+ },
+ {
+   "id": 45,
+   "podcast": "Biznisz Boyz: A magyar vállalkozói podcast show"
+ },
+ {
+   "id": 46,
+   "podcast": "impakták"
+ },
+ {
+   "id": 47,
+   "podcast": "Vendéglő a Világ Végén"
+ },
+ {
+   "id": 48,
+   "podcast": "Kiköltöztünk - a külföldre költözők podcastja"
+ },
+ {
+   "id": 49,
+   "podcast": "Hármas könyvelés"
+ },
+ {
+   "id": 50,
+   "podcast": "Space Bar Podcast"
+ },
+ {
+   "id": 51,
+   "podcast": "Lecsó: belecsapunk!"
+ },
+ {
+   "id": 52,
+   "podcast": "Teljes terjedelem"
+ },
+ {
+   "id": 53,
+   "podcast": "Vaxerencse - a hé7méteres kézipodcast"
+ },
+ {
+   "id": 54,
+   "podcast": "Büntető Podcast"
+ },
+ {
+   "id": 55,
+   "podcast": "Stredford End"
+ },
+ {
+   "id": 56,
+   "podcast": "Majompercek"
+ },
+ {
+   "id": 57,
+   "podcast": "Triple Coverage by Fűzővel kifelé!"
+ },
+ {
+   "id": 58,
+   "podcast": "Zebraetető"
+ },
+ {
+   "id": 59,
+   "podcast": "SportTerasz - sport podcast"
+ },
+ {
+   "id": 60,
+   "podcast": "Alley-oop"
+ },
+ {
+   "id": 61,
+   "podcast": "Rapcity Keleten-Nyugaton Podcast"
+ },
+ {
+   "id": 62,
+   "podcast": "Spin-O-Rama Hungary"
+ },
+ {
+   "id": 63,
+   "podcast": "THPFC Podcast"
+ },
+ {
+   "id": 64,
+   "podcast": "szertár"
+ },
+ {
+   "id": 65,
+   "podcast": "thevr Happy Hour"
+ },
+ {
+   "id": 66,
+   "podcast": "Sterbinszky Official Podcast"
+ },
+ {
+   "id": 67,
+   "podcast": "Funky Mixes"
+ },
+ {
+   "id": 68,
+   "podcast": "Andro Podcast"
+ },
+ {
+   "id": 69,
+   "podcast": "Filmklub podcast"
+ },
+ {
+   "id": 70,
+   "podcast": "Vakfolt podcast"
+ },
+ {
+   "id": 71,
+   "podcast": "A hét mesterlövésze"
+ },
+ {
+   "id": 72,
+   "podcast": "Szempillantás"
+ },
+ {
+   "id": 73,
+   "podcast": "Nők az úton"
+ },
+ {
+   "id": 74,
+   "podcast": "lecsó: belecsapunk!"
+ },
+ {
+   "id": 75,
+   "podcast": "Szín Folt Cafe"
+ },
+ {
+   "id": 76,
+   "podcast": "Pannon pszicho"
+ },
+ {
+   "id": 77,
+   "podcast": "Agyvihar"
+ },
+ {
+   "id": 78,
+   "podcast": "gombapresszó"
+ },
+ {
+   "id": 79,
+   "podcast": "sterbinszky Official Podcast"
+ },
+ {
+   "id": 80,
+   "podcast": "B-sensual Official HOUSE Podcast"
+ },
+ {
+   "id": 81,
+   "podcast": "filmbarátok Podcast"
+ },
+ {
+   "id": 82,
+   "podcast": "Daráló Podcast"
+ },
+ {
+   "id": 83,
+   "podcast": "Apple Keynotes"
+ },
+ {
+   "id": 84,
+   "podcast": "The Vergecast"
+ },
+ {
+   "id": 85,
+   "podcast": "Accidental Tech Podcast"
+ },
+ {
+   "id": 86,
+   "podcast": "Techdirt"
+ },
+ {
+   "id": 87,
+   "podcast": "The Talk Show With John Gruber"
+ },
+ {
+   "id": 88,
+   "podcast": "Recode Decode, hosted by Kara Swisher"
+ },
+ {
+   "id": 89,
+   "podcast": "Software Engineering Daily"
+ },
+ {
+   "id": 90,
+   "podcast": "Syntax - Tasty Web Development Treats"
+ },
+ {
+   "id": 91,
+   "podcast": "infostart.hu - Aréna"
+ },
+ {
+   "id": 92,
+   "podcast": "vendéglő a Világ Végén"
+ },
+ {
+   "id": 93,
+   "podcast": "88 mérföld óránként"
+ },
+ {
+   "id": 94,
+   "podcast": "Nyilvános vetítés"
+ },
+ {
+   "id": 95,
+   "podcast": "Malackaraj"
+ },
+ {
+   "id": 96,
+   "podcast": "HWSW Weekly"
+ },
+ {
+   "id": 97,
+   "podcast": "Ganer365.hu"
+ }
+]

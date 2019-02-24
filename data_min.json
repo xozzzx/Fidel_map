@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "podcast": "Párnacsata"
+    },
+    {
+      "id": 2,
+      "podcast": "TheVR Happy Hour"
+    }
+  ],
+  "links": [
+
+    {
+      "source_id": 1,
+      "source_name": "Párnacsata",
+      "target_id": 2,
+      "target_name": "TheVR Happy Hour"
+    },
+    {
+      "source_id": 2,
+      "source_name": "TheVR Happy Hour",
+      "target_id": 1,
+      "target_name": "Párnacsata"
+    }
+  ]
+}
