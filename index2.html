@@ -77,7 +77,9 @@ d3.json("data_2.json", function(error, graph) {
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
-          .on("end", dragended));
+          .on("end", dragended))
+       .on("mouseover", mouseOver(.2))
+        .on("mouseout", mouseOut);
 
   var lables = node.append("text")
       .text(function(d) {
