@@ -153,7 +153,7 @@ d3.json("data_2.json", function(error, graph) {
                 return o.source === d || o.target === d ? o.source.colour : "#ddd";
             });
             
-            marker.style("stroke-opacity", function(o){
+            link.style("marker-end", function(o){
                 return o.source === d || o.target === d ? 1 : opacity;
             });   
           
