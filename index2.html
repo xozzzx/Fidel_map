@@ -146,11 +146,11 @@ d3.json("data_2.json", function(error, graph) {
                 return thisOpacity;
             });
             // also style link accordingly
-            link.style("stroke-opacity", function(o) {
+            link.style("opacity", function(o) {
                 return o.source === d || o.target === d ? 1 : opacity;
             });
             link.style("stroke", function(o){
-                return o.source === d || o.target === d ? o.source.colour : "#ddd";
+                return o.source === d || o.target === d ? #d9415c : "#ddd";
             });
             
             link.style("opacity", function(o) {
@@ -164,7 +164,6 @@ d3.json("data_2.json", function(error, graph) {
     function mouseOut() {
         node.style("stroke-opacity", 1);
         node.style("fill-opacity", 1);
-        link.style("stroke-opacity", 1);
         link.style("stroke", "#ddd");
         link.style("opacity",1);
     }    
