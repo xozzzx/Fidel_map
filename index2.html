@@ -149,7 +149,7 @@ function dragended(d) {
   
 // build a dictionary of nodes that are linked
     var linkedByIndex = {};
-    links.forEach(function(d) {
+    graph.links.forEach(function(d) {
         linkedByIndex[d.source.index + "," + d.target.index] = 1;
     });
 
