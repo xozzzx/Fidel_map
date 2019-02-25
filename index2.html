@@ -67,6 +67,7 @@ d3.json("data_2.json", function(error, graph) {
     .selectAll("line")
     .data(graph.links)
     .enter().append("line")
+      .attr("class", "link")
       .attr("stroke-width", 2)
       .attr("marker-end", "url(#end)");;
 
@@ -151,11 +152,11 @@ function dragended(d) {
             // check all other nodes to see if they're connected
             // to this one. if so, keep the opacity at 1, otherwise
             // fade
-            node.style("stroke-opacity", function(o) {
+            nodes.style("stroke-opacity", function(o) {
                 thisOpacity = isConnected(d, o) ? 1 : opacity;
                 return thisOpacity;
             });
-            node.style("fill-opacity", function(o) {
+            nodes.style("fill-opacity", function(o) {
                 thisOpacity = isConnected(d, o) ? 1 : opacity;
                 return thisOpacity;
             });
@@ -170,8 +171,8 @@ function dragended(d) {
     }
 
     function mouseOut() {
-        node.style("stroke-opacity", 1);
-        node.style("fill-opacity", 1);
+        nodes.style("stroke-opacity", 1);
+        nodes.style("fill-opacity", 1);
         link.style("stroke-opacity", 1);
         link.style("stroke", "#ddd");
     }  
