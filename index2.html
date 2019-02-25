@@ -156,7 +156,9 @@ d3.json("data_2.json", function(error, graph) {
             link.style("opacity", function(o) {
                 return o.source === d || o.target === d ? 1 : opacity;
             });
-          
+            link.style("fill", function(o) {
+                return o.source === d || o.target === d ? "#d9415c" : "#ddd";
+            });  
           
         };
     }
