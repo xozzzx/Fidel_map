@@ -152,6 +152,11 @@ d3.json("data_2.json", function(error, graph) {
             link.style("stroke", function(o){
                 return o.source === d || o.target === d ? o.source.colour : "#ddd";
             });
+            
+            marke-end.style("stroke", function(o){
+                return o.source === d || o.target === d ? o.source.colour : "#ddd";
+            });   
+          
         };
     }
 
