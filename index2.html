@@ -59,7 +59,7 @@ d3.json("data_2.json", function(error, graph) {
     var nodes = graph.nodes;
     // links between nodes
     var links = graph.links;
-     var marks = defs.selectAll('marker')
+     var marks = svg.append("svg:defs").selectAll("marker")
   graph.links.forEach(function(d){
     d.source = d.source_id;
     d.target = d.target_id;
