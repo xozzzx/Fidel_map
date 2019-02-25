@@ -51,7 +51,12 @@ var simulation = d3.forceSimulation()
 
 d3.json("data_2.json", function(error, graph) {
   if (error) throw error;
-
+  
+    // set the nodes
+    var nodes = graph.nodes;
+    // links between nodes
+    var links = graph.links;
+  
   graph.links.forEach(function(d){
     d.source = d.source_id;
     d.target = d.target_id;
