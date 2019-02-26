@@ -46,13 +46,13 @@ var svg = d3.select("svg"),
 var color = d3.scaleOrdinal(d3.schemeCategory20);
 
 var simulation = d3.forceSimulation()
-   // .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(100))
+    .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(100))
   //  .force("link", d3.forceLink().id(function(d) { return d.id; }))
-  //  .force("charge", d3.forceManyBody().strength(-200))
-   // .force("center", d3.forceCenter(width / 2, height / 2))
-  //  .force('collision', d3.forceCollide().radius(30))
-    .force("charge", d3.forceCollide().radius(30))
-    .force("r", d3.forceRadial(function(d) { return 400; }))
+    .force("charge", d3.forceManyBody().strength(-200))
+   .force("center", d3.forceCenter(width / 2, height / 2))
+    .force('collision', d3.forceCollide().radius(30))
+ //   .force("charge", d3.forceCollide().radius(30))
+ //   .force("r", d3.forceRadial(function(d) { return 400; }))
     ;
 
 d3.json("data_2.json", function(error, graph) {
