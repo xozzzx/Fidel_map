@@ -172,6 +172,11 @@ d3.json("data_2.json", function(error, graph) {
         link.style("stroke", "#999");
         link.style("opacity",1);
     }    
+  
+  var zoom_handler = d3.zoom()
+      .on("zoom", zoom_actions);
+
+  zoom_handler(svg); 
 });
 
 function dragstarted(d) {
@@ -190,6 +195,11 @@ function dragended(d) {
   d.fx = null;
   d.fy = null;
 }
+
+//Zoom functions 
+function zoom_actions(){
+    g.attr("transform", d3.event.transform)
+}  
 
 
 </script>
