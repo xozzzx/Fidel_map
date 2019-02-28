@@ -68,7 +68,7 @@ d3.json("data_2.json", function(error, graph) {
     d.target = d.target_id;
   });
 
-  var link = svg.append("g")
+  var link = g.append("g")
       .attr("class", "links")
     .selectAll("line")
     .data(graph.links)
@@ -77,7 +77,7 @@ d3.json("data_2.json", function(error, graph) {
       .attr("stroke-width", 2)
       .attr("marker-end", "url(#end)");;
 
-  var node = svg.append("g")
+  var node = g.append("g")
       .attr("class", "nodes")
     .selectAll("g")
     .data(graph.nodes)
@@ -172,6 +172,19 @@ d3.json("data_2.json", function(error, graph) {
         link.style("stroke", "#999");
         link.style("opacity",1);
     }    
+	
+  //add encompassing group for the zoom 
+var g = g.append("g")
+    .attr("class", "everything");
+  var zoom_handler = d3.zoom()
+      .on("zoom", zoom_actions);
+
+  zoom_handler(svg); 
+
+  //Zoom functions 
+function zoom_actions(){
+    g.attr("transform", d3.event.transform)
+}  
 
 });
 
@@ -192,18 +205,7 @@ function dragended(d) {
   d.fy = null;
 }
 
-  //add encompassing group for the zoom 
-var g = svg.append("g")
-    .attr("class", "everything");
-  var zoom_handler = d3.zoom()
-      .on("zoom", zoom_actions);
 
-  zoom_handler(svg); 
-
-  //Zoom functions 
-function zoom_actions(){
-    g.attr("transform", d3.event.transform)
-}  
 
 
 </script>
