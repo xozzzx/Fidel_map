@@ -86,7 +86,7 @@ d3.json("data_2.json", function(error, graph) {
 
   var circles = node.append("circle")
       .attr("r", 10)
-      .attr("fill", "black")
+      .attr("fill", "grey")
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
